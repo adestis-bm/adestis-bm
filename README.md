@@ -4,13 +4,13 @@ I am working at [ADESTIS GmbH](https://www.adestis.com/) as a _administrator_ an
 
 ## Technologies at work
 
+* VMware vSphere
+* Ansible
+* Golang
 * Kubernetes
 * Docker
-* Ansible
-* VMware vSphere
 * Terraform
 * BASH
-* Golang
 * Linux
 * GitLab
 * Windows Server 2019 (Core)
