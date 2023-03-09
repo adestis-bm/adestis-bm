@@ -9,13 +9,13 @@ I am working for [ADESTIS GmbH](https://www.adestis.com/) as an _administrator_ 
 * VMware vSphere
 * Ansible
 * Golang
-* Kubernetes
+* Kubernetes (also Windows K8s)
 * Docker
 * Terraform
 * BASH
 * Linux
 * GitLab
-* Windows Server 2019 (Core)
+* Windows Server 2022 & 2019 (Core)
 * Powershell (over SSH)
 
 ... just to name a _few_.
