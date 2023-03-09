@@ -1,6 +1,6 @@
 # Boris Mühmer
 
-I am working at [ADESTIS GmbH](https://www.adestis.com/) as an _administrator_ and _programmer_.
+I am working for [ADESTIS GmbH](https://www.adestis.com/) as an _administrator_ and _programmer_.
 
 **Very important _note_:** I am **NOT** looking for a new job!!!
 
